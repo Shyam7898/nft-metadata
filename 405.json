@@ -1,0 +1,11 @@
+{
+    "name": "One Piece Art #405",
+    "description": "999 unique One Piece Art collectible.",
+    "image": "ipfs://bafybeighbtvhquahs26hwsobsifz2fltlzuhdn6nh4skjafewwltxdzwkm/405.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
