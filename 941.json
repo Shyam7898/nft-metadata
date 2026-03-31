@@ -1,0 +1,11 @@
+{
+    "name": "One Piece Art #941",
+    "description": "999 unique One Piece Art collectible.",
+    "image": "ipfs://bafybeihbyz6wab6ah4o5wqnwf7xskz35jqajajzjtsib5zbwc4tnjhwv2u/941.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Epic"
+        }
+    ]
+}
