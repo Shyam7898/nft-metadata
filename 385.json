@@ -1,0 +1,11 @@
+{
+    "name": "One Piece Art #385",
+    "description": "999 unique One Piece Art collectible.",
+    "image": "ipfs://bafybeighbtvhquahs26hwsobsifz2fltlzuhdn6nh4skjafewwltxdzwkm/385.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
