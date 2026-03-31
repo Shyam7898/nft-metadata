@@ -1,0 +1,11 @@
+{
+    "name": "One Piece Art #135",
+    "description": "999 unique One Piece Art collectible.",
+    "image": "ipfs://bafybeihab2wppfgfj7c34irrl7a7uixg3qjkeiawzj63s57mvlizv3s4nu/135.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
